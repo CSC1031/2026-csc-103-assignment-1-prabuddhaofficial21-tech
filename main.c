@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+int main() //AS20250596
 {
     float m1, m2, m3, Average, Total;
 
